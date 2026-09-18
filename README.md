@@ -539,7 +539,8 @@ Vite will display the local frontend URL in the terminal.
 The application normally runs at:
 
 ```text
-http://localhost:5173
+
+http://localhost:3000/
 ```
 
 Open the displayed URL in a modern web browser.
