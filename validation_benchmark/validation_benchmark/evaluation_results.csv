@@ -1,0 +1,2 @@
+video_path,exercise,actual_reps,predicted_reps,invalid_reps,rep_error,detection_rate_pct,frames
+G:\A Multi-View Raw Video Dataset of Seven Fitness Ex\Dataset Exercise Quality-wise\bicep_curl\good\subject_001_bicep_curl_good_front.mp4,bicep_curl,16,12,0,4,75.0,482

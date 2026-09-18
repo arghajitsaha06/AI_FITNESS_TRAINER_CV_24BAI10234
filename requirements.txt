@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+opencv-python
+mediapipe
+numpy
+pydantic
+pytest
+httpx
+bcrypt
+pyjwt
+email-validator
